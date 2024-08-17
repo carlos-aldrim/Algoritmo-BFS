@@ -68,20 +68,18 @@ Pense em uma escola onde cada aluno é representado por uma sala, e as portas en
 
 Para entender melhor, você pode assistir a esses vídeos:
 
-1. **[Curso em Vídeo - Estruturas de Dados](https://www.youtube.com/watch?v=Zz9w00nqlA0)**
-2. **[Resolvendo Grafos com BFS - YouTube](https://www.youtube.com/watch?v=4RLvezy-VMk)**
-3. **[Algoritmo BFS - Como Funciona? (DF e BFS) - YouTube](https://www.youtube.com/watch?v=EK2hxTtLNTE)**
+1. **[Estrutura de Dados - Aula 27 - Grafos - Busca em largura - Youtube](https://www.youtube.com/watch?v=RNJxSV3BmcI)**
 
 E aqui estão alguns sites para ler mais:
 
-1. **[Algoritmos de Grafos - BFS e DFS - UFABC](https://www.ufabc.edu.br/~renata.bassi/disciplinas/analise-algoritmos/slides/algoritmos-grafos.pdf)**
-2. **[Livro: Introdução à Programação com Python](https://www.casadocodigo.com.br/products/livro-python)**
-3. **[Material Didático - Grafos e Aplicações - UFSM](https://www.ufsm.br/app/uploads/sites/397/2022/04/Grafos-e-Aplicacoes.pdf)**
+1. **[Métodos de Busca em Grafos — BFS & DFS - Medium](https://medium.com/@anwarhermuche/métodos-de-busca-em-grafos-bfs-dfs-cf17761a0dd9)**
+2. **[Algoritmos em Python: Uma Análise Abrangente e Aplicações Práticas - DEV Community](https://dev.to/matt_veanged/algoritmos-em-python-uma-analise-abrangente-e-aplicacoes-praticas-i4n#:~:text=Algoritmo%20de%20Busca%20em%20Largura,explorar%20grafos%20de%20maneira%20sistemática.)**
 
 E aqui estão algumas ferramentas interativas para utilizar:
 
 1. **[VisuAlgo (em Português)](https://visualgo.net/pt/dfsbfs)**
 2. **[Graph Online (em Português)](https://graphonline.ru/pt/)**
+3. **[Online Python Compiler - Online Editor](https://www.onlinegdb.com/online_python_compiler)**
 
 ## Onde o BFS é Usado?
 
